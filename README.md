@@ -129,7 +129,7 @@ Follow ***steps 2, 3 and 4*** in the [Getting Started Guide](https://developers.
    ```objc
    #import <AuthenticationServices/AuthenticationServices.h>
    #import <SafariServices/SafariServices.h>
-   #import <FBSDKCoreKit/FBSDKCoreKit-swift.h>`
+   #import <FBSDKCoreKit/FBSDKCoreKit-swift.h>
    ```
    2. Inside `didFinishLaunchingWithOptions`, add the following:
       ```objc
